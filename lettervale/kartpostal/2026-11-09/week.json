@@ -1,0 +1,3726 @@
+{
+ "version": 2,
+ "days": [
+  {
+   "photo": "d1.jpg",
+   "title": {
+    "en": "Santorini",
+    "es": "Santorini",
+    "pt": "Santorini",
+    "fr": "Santorin",
+    "de": "Santorini",
+    "tr": "Santorini"
+   },
+   "place": {
+    "en": "Greece",
+    "es": "Grecia",
+    "pt": "Grécia",
+    "fr": "Grèce",
+    "de": "Griechenland",
+    "tr": "Yunanistan"
+   },
+   "fact": {
+    "en": "The island's crescent shape was carved by a huge volcanic eruption about 3,600 years ago.",
+    "es": "La forma de media luna de la isla nació de una enorme erupción volcánica hace unos 3.600 años.",
+    "pt": "O formato de meia-lua da ilha surgiu de uma enorme erupção vulcânica há cerca de 3.600 anos.",
+    "fr": "La forme en croissant de l'île est née d'une énorme éruption volcanique il y a environ 3 600 ans.",
+    "de": "Die Sichelform der Insel entstand vor etwa 3.600 Jahren bei einem gewaltigen Vulkanausbruch.",
+    "tr": "Adanın hilal biçimi, yaklaşık 3.600 yıl önceki dev bir volkan patlamasıyla oluştu."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "IANLDS",
+     "words": [
+      {
+       "word": "ISLAND",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "SLAIN",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "NAIL",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "LAND",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "SNAIL",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "LAD",
+       "x": 4,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "AID",
+       "x": 4,
+       "y": 5,
+       "horizontal": true
+      },
+      {
+       "word": "LAID",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ADS",
+      "AIDS",
+      "AND",
+      "DIAL",
+      "DIALS",
+      "DIN",
+      "DIS",
+      "IDS",
+      "IND",
+      "INS",
+      "LADS",
+      "LANDS",
+      "LID",
+      "LIDS",
+      "NAILS",
+      "NIL",
+      "SAD",
+      "SAID",
+      "SAIL",
+      "SAND",
+      "SIN",
+      "SLID"
+     ]
+    },
+    "es": {
+     "letters": "CNOVAL",
+     "words": [
+      {
+       "word": "VOCAL",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "VANO",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "CLAVO",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "CALVO",
+       "x": 2,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "VAN",
+       "x": 5,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "VOLCAN",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "CAN",
+       "x": 3,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "CANO",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ANO",
+      "CAL",
+      "CLAN",
+      "CLON",
+      "COL",
+      "COLA",
+      "CON",
+      "LAVO",
+      "LOA",
+      "LOCA",
+      "LONA",
+      "NAO",
+      "NOVA",
+      "OCA",
+      "OLA",
+      "OVAL",
+      "VAL",
+      "VOL"
+     ]
+    },
+    "pt": {
+     "letters": "ABCRON",
+     "words": [
+      {
+       "word": "BRANCO",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "BRACO",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BACON",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "CARO",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "RABO",
+       "x": 2,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "BANCO",
+       "x": 2,
+       "y": 5,
+       "horizontal": true
+      },
+      {
+       "word": "ACO",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ABRO",
+      "ANO",
+      "ARCO",
+      "ARO",
+      "BACO",
+      "BAR",
+      "BARCO",
+      "BOA",
+      "BOCA",
+      "BORA",
+      "BROCA",
+      "BRONCA",
+      "CABO",
+      "CANO",
+      "CAO",
+      "COBRA",
+      "CONA",
+      "COR",
+      "NAO",
+      "NORA",
+      "OBA",
+      "OBRA",
+      "OCA",
+      "ONCA",
+      "ORA",
+      "ROCA"
+     ]
+    },
+    "fr": {
+     "letters": "GEILES",
+     "words": [
+      {
+       "word": "LIS",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "LIE",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "SEL",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "SIEGE",
+       "x": 5,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "EGLISE",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "GEL",
+       "x": 1,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ILE",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "LIEGE",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "GELE",
+      "GELES",
+      "ILES",
+      "ILS",
+      "LEGS",
+      "LES",
+      "LIEE",
+      "LIEES",
+      "LIES",
+      "LISE",
+      "SEIGLE",
+      "SIGLE"
+     ]
+    },
+    "de": {
+     "letters": "ESNIL",
+     "words": [
+      {
+       "word": "SEIL",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "EIS",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "EINS",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "INSEL",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "LIES",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "SEI",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "EIN",
+      "INS",
+      "LINSE",
+      "NIL",
+      "SEIN",
+      "SIE"
+     ]
+    },
+    "tr": {
+     "letters": "İESİLK",
+     "words": [
+      {
+       "word": "LİSE",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "EKSİ",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "İLKE",
+       "x": 5,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "KEL",
+       "x": 3,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "KİLİSE",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "KES",
+       "x": 0,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "SEL",
+       "x": 4,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "SİL",
+       "x": 0,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "EKİ",
+      "EKİLİ",
+      "EKLİ",
+      "ESİ",
+      "ESKİ",
+      "İKİ",
+      "İLE",
+      "İLİ",
+      "İLİK",
+      "İLK",
+      "İLKESİ",
+      "İLKİ",
+      "İSE",
+      "İSEK",
+      "İSİ",
+      "KESİ",
+      "KİL",
+      "KİLİ",
+      "SEK",
+      "SEKİ",
+      "SELİ",
+      "SİKİ",
+      "SİLİK",
+      "SİLK",
+      "SKİ"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d2.jpg",
+   "title": {
+    "en": "Hallstatt",
+    "es": "Hallstatt",
+    "pt": "Hallstatt",
+    "fr": "Hallstatt",
+    "de": "Hallstatt",
+    "tr": "Hallstatt"
+   },
+   "place": {
+    "en": "Austria",
+    "es": "Austria",
+    "pt": "Áustria",
+    "fr": "Autriche",
+    "de": "Österreich",
+    "tr": "Avusturya"
+   },
+   "fact": {
+    "en": "Salt has been mined in the mountain above the village for more than 7,000 years.",
+    "es": "En la montaña sobre el pueblo se extrae sal desde hace más de 7.000 años.",
+    "pt": "Na montanha acima da vila se extrai sal há mais de 7.000 anos.",
+    "fr": "On extrait du sel dans la montagne au-dessus du village depuis plus de 7 000 ans.",
+    "de": "Im Berg über dem Ort wird seit mehr als 7.000 Jahren Salz abgebaut.",
+    "tr": "Köyün üstündeki dağda 7.000 yılı aşkın süredir tuz çıkarılıyor."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "OUNIAMTN",
+     "words": [
+      {
+       "word": "AMOUNT",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "MOUNT",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "UNION",
+       "x": 7,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MOUNTAIN",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "MINT",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "AUNT",
+       "x": 5,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "NATION",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AIM",
+      "AMINO",
+      "ANON",
+      "ANT",
+      "ANTI",
+      "ATOM",
+      "AUTO",
+      "INN",
+      "INT",
+      "INTO",
+      "ION",
+      "MAIN",
+      "MAN",
+      "MAT",
+      "MIN",
+      "MOAN",
+      "MOAT",
+      "MOI",
+      "MOT",
+      "MUN",
+      "NIT",
+      "NON",
+      "NOT",
+      "NOUN",
+      "NUN",
+      "NUT",
+      "OMIT",
+      "OUT",
+      "TAM",
+      "TAN",
+      "TAU",
+      "TIN",
+      "TOM",
+      "TON",
+      "TUM",
+      "TUNA",
+      "UNI",
+      "UNIT",
+      "UNTO"
+     ]
+    },
+    "es": {
+     "letters": "ONÑAAMT",
+     "words": [
+      {
+       "word": "ANTAÑO",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "TAMAÑO",
+       "x": 6,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "TOMA",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MANTA",
+       "x": 2,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MONTA",
+       "x": 2,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "MONTAÑA",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "MANO",
+       "x": 1,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AMA",
+      "AMAN",
+      "AMO",
+      "ANO",
+      "ANOTA",
+      "ATA",
+      "AÑO",
+      "MAN",
+      "MANA",
+      "MANTO",
+      "MATAN",
+      "MATO",
+      "MATON",
+      "MAÑA",
+      "MONA",
+      "MOTA",
+      "NAO",
+      "NATA",
+      "NATO",
+      "NOTA",
+      "TAN",
+      "TOMAN",
+      "TON"
+     ]
+    },
+    "pt": {
+     "letters": "ANAMOHNT",
+     "words": [
+      {
+       "word": "TAMANHO",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ATO",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MATO",
+       "x": 7,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MONTANHA",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "MANHA",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "TOM",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "MANTO",
+       "x": 3,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "AMO",
+       "x": 4,
+       "y": 4,
+       "horizontal": false
+      }
+     ],
+     "bonus": [
+      "AMA",
+      "ANAO",
+      "ANO",
+      "ANOTA",
+      "ANTA",
+      "ANTAO",
+      "ATA",
+      "MANA",
+      "MANO",
+      "MANTA",
+      "MONTA",
+      "MOTA",
+      "NANA",
+      "NANO",
+      "NAO",
+      "NATA",
+      "NATO",
+      "NON",
+      "NONA",
+      "NOTA",
+      "NOTAM",
+      "OMAHA",
+      "OTA",
+      "TAO",
+      "TOA",
+      "TOMA",
+      "TONA"
+     ]
+    },
+    "fr": {
+     "letters": "TOMENANG",
+     "words": [
+      {
+       "word": "AGENT",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ETANG",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MONTE",
+       "x": 1,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "GENANT",
+       "x": 7,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MONTAGNE",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "TANGO",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "AMONT",
+       "x": 3,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AGE",
+      "AME",
+      "AMEN",
+      "ANE",
+      "ANGE",
+      "ATOME",
+      "EGO",
+      "GANT",
+      "GATE",
+      "GEANT",
+      "GENT",
+      "GEO",
+      "GNOME",
+      "GONE",
+      "MAGE",
+      "MAGNE",
+      "MAN",
+      "MANGE",
+      "MANGENT",
+      "MANNE",
+      "MAT",
+      "MATE",
+      "MEGA",
+      "MENA",
+      "MENANT",
+      "MENT",
+      "MENTON",
+      "MET",
+      "META",
+      "MON",
+      "MONT",
+      "MONTA",
+      "MONTAGE",
+      "MOT",
+      "NAGE",
+      "NEANT",
+      "NET",
+      "NOM",
+      "NON",
+      "NOTA",
+      "NOTE",
+      "OMEGA",
+      "ONT",
+      "OTAGE",
+      "OTE",
+      "TAG",
+      "TAN",
+      "TAO",
+      "TOME",
+      "TON",
+      "TONG",
+      "TONNE"
+     ]
+    },
+    "de": {
+     "letters": "RBEGIEG",
+     "words": [
+      {
+       "word": "BIER",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BERG",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "GIB",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "REGIE",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "BERGE",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "ERBE",
+       "x": 1,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "EIER",
+       "x": 4,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "GEBIRGE",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "BEI",
+      "BEIGE",
+      "BREI",
+      "GEBE",
+      "GEBER",
+      "GEIER",
+      "GEIGE",
+      "GIER",
+      "REGE",
+      "RIEGE"
+     ]
+    },
+    "tr": {
+     "letters": "ADARĞL",
+     "words": [
+      {
+       "word": "ADA",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "AĞA",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "DAĞLAR",
+       "x": 0,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "ALA",
+       "x": 4,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "DAR",
+       "x": 1,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "DAL",
+       "x": 3,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "DAĞ",
+       "x": 3,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "ARA",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ADLA",
+      "ADLAR",
+      "AĞAR",
+      "AĞDA",
+      "AĞLA",
+      "AĞLAR",
+      "DALA",
+      "DALAR",
+      "DARA",
+      "DARLA",
+      "DAĞA"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d3.jpg",
+   "title": {
+    "en": "Chefchaouen",
+    "es": "Chefchaouen",
+    "pt": "Chefchaouen",
+    "fr": "Chefchaouen",
+    "de": "Chefchaouen",
+    "tr": "Şafşavan"
+   },
+   "place": {
+    "en": "Morocco",
+    "es": "Marruecos",
+    "pt": "Marrocos",
+    "fr": "Maroc",
+    "de": "Marokko",
+    "tr": "Fas"
+   },
+   "fact": {
+    "en": "Nicknamed the Blue Pearl, its walls, doors and stairs are painted in every shade of blue.",
+    "es": "La llaman la Perla Azul: sus muros, puertas y escaleras se pintan en todos los tonos de azul.",
+    "pt": "Chamada de Pérola Azul, tem muros, portas e escadas pintados em todos os tons de azul.",
+    "fr": "Surnommée la Perle bleue, ses murs, portes et escaliers sont peints de toutes les nuances de bleu.",
+    "de": "Die „Blaue Perle“: Wände, Türen und Treppen sind in allen Blautönen gestrichen.",
+    "tr": "Mavi İnci denen kasabada duvarlar, kapılar ve merdivenler mavinin her tonuna boyanır."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "OSRFELW",
+     "words": [
+      {
+       "word": "SLOW",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "WORSE",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "LOSER",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "SWORE",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "LOSE",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "FLOWERS",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "SELF",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ELF",
+      "FER",
+      "FEW",
+      "FLEW",
+      "FLOW",
+      "FLOWER",
+      "FLOWS",
+      "FOE",
+      "FOES",
+      "FOL",
+      "FOR",
+      "FORE",
+      "FOWL",
+      "FRO",
+      "LORE",
+      "LOW",
+      "LOWER",
+      "LOWERS",
+      "LOWS",
+      "OLE",
+      "ORE",
+      "OWE",
+      "OWES",
+      "OWL",
+      "OWLS",
+      "REF",
+      "REFS",
+      "REL",
+      "RES",
+      "ROE",
+      "ROLE",
+      "ROLES",
+      "ROSE",
+      "ROW",
+      "ROWS",
+      "SEW",
+      "SLEW",
+      "SLOWER",
+      "SOL",
+      "SOLE",
+      "SORE",
+      "SOW",
+      "WOE",
+      "WOES",
+      "WOLF",
+      "WORE"
+     ]
+    },
+    "es": {
+     "letters": "ESLERCAA",
+     "words": [
+      {
+       "word": "ESCALERA",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "CESAR",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "CLASE",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "CASAR",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "SACAR",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "AEREA",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "ESCALAR",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ACA",
+      "ACELERA",
+      "ACERA",
+      "ACERAS",
+      "ACLARE",
+      "ACRE",
+      "ACRES",
+      "AEREAS",
+      "ALA",
+      "ALAS",
+      "ALE",
+      "ARA",
+      "ARAS",
+      "ARCA",
+      "ARCAS",
+      "ARCE",
+      "ARE",
+      "AREA",
+      "AREAS",
+      "ARES",
+      "ASA",
+      "ASE",
+      "CAE",
+      "CAER",
+      "CAERA",
+      "CAERSE",
+      "CAES",
+      "CAL",
+      "CALA",
+      "CAR",
+      "CARA",
+      "CARAS",
+      "CARLA",
+      "CASA",
+      "CASAL",
+      "CASE",
+      "CASERA",
+      "CEA",
+      "CELA",
+      "CERA",
+      "CEREAL",
+      "CES",
+      "CESA",
+      "CESAREA",
+      "CESE",
+      "CLARA",
+      "CLARAS",
+      "CREA",
+      "CREAS",
+      "CREE",
+      "CREES",
+      "ELE",
+      "ERA",
+      "ERAS",
+      "ERASE",
+      "ERE",
+      "ERES",
+      "ESA",
+      "ESCALA",
+      "ESE",
+      "LACRA",
+      "LACRAS",
+      "LARES",
+      "LAS",
+      "LASER",
+      "LEA",
+      "LEAS",
+      "LEASE",
+      "LEE",
+      "LEER",
+      "LEERA",
+      "LEES",
+      "LES",
+      "LESA",
+      "RAS",
+      "RASCA",
+      "REA",
+      "REAL",
+      "REALES",
+      "RECAE",
+      "RES",
+      "RESACA",
+      "SACA",
+      "SACARLE",
+      "SACRA",
+      "SAL",
+      "SALA",
+      "SALE",
+      "SEA",
+      "SECA",
+      "SECAR",
+      "SEL",
+      "SER",
+      "SERA",
+      "SERE",
+      "SERLE"
+     ]
+    },
+    "pt": {
+     "letters": "FOERLS",
+     "words": [
+      {
+       "word": "SOL",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "LER",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "FLORES",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "FOR",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ELO",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "FLOR",
+       "x": 2,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ELFO",
+      "ELFOS",
+      "ELOS",
+      "EROS",
+      "FORES",
+      "ORE",
+      "ROL",
+      "ROLE",
+      "ROSE",
+      "SELO",
+      "SER",
+      "SOE",
+      "SOFRE",
+      "SOR"
+     ]
+    },
+    "fr": {
+     "letters": "ELSRACIE",
+     "words": [
+      {
+       "word": "SIECLE",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ECLAIRE",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "RELAIS",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "ESCALIER",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "CLAIR",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ACIER",
+       "x": 2,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "SERIE",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ACRE",
+      "ACRES",
+      "AIE",
+      "AIES",
+      "AIL",
+      "AILE",
+      "AILES",
+      "AIR",
+      "AIRE",
+      "AIRS",
+      "AIS",
+      "AISE",
+      "AISEE",
+      "ALE",
+      "ARC",
+      "ARCS",
+      "ARE",
+      "ARS",
+      "ASILE",
+      "CAL",
+      "CALE",
+      "CALER",
+      "CAR",
+      "CARS",
+      "CAS",
+      "CASE",
+      "CASER",
+      "CASIER",
+      "CELA",
+      "CERISE",
+      "CES",
+      "CIEL",
+      "CIELS",
+      "CILS",
+      "CIRE",
+      "CIS",
+      "CLAIRES",
+      "CLAIRS",
+      "CLE",
+      "CLES",
+      "CRAIE",
+      "CREA",
+      "CREE",
+      "CREES",
+      "CRI",
+      "CRIE",
+      "CRIES",
+      "CRIS",
+      "CRISE",
+      "ECLAIR",
+      "ECLAIRES",
+      "ECLAIRS",
+      "ECRASE",
+      "ECRIS",
+      "ELIRE",
+      "ERE",
+      "ESCALE",
+      "ILE",
+      "ILES",
+      "ILS",
+      "IRAS",
+      "IRE",
+      "LAC",
+      "LACS",
+      "LAI",
+      "LAIC",
+      "LAICS",
+      "LAS",
+      "LASER",
+      "LES",
+      "LIA",
+      "LICE",
+      "LIE",
+      "LIEE",
+      "LIEES",
+      "LIER",
+      "LIES",
+      "LIRA",
+      "LIRE",
+      "LIS",
+      "LISE",
+      "RACE",
+      "RACES",
+      "RAI",
+      "RAIE",
+      "RAIES",
+      "RAIL",
+      "RAILS",
+      "RALE",
+      "RAS",
+      "RASE",
+      "RASEE",
+      "REA",
+      "REAL",
+      "REALISE",
+      "RECEL",
+      "REEL",
+      "REELS",
+      "RELIE",
+      "RELIES",
+      "RELIS",
+      "RIA",
+      "RIE",
+      "RIS",
+      "RISEE",
+      "SAC",
+      "SACRE",
+      "SACREE",
+      "SALE",
+      "SALEE",
+      "SALI",
+      "SALIR",
+      "SCIE",
+      "SEC",
+      "SEL",
+      "SERA",
+      "SERAI",
+      "SIC",
+      "SIR",
+      "SIRE"
+     ]
+    },
+    "de": {
+     "letters": "ELETARN",
+     "words": [
+      {
+       "word": "RENTE",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "RAT",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ALTEN",
+       "x": 6,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "ALTER",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ARTEN",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "LATERNE",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "ERNTE",
+       "x": 2,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ALT",
+      "ALTE",
+      "ALTERE",
+      "ALTERN",
+      "ART",
+      "ARTE",
+      "ELAN",
+      "ELTERN",
+      "ENTE",
+      "ENTER",
+      "ENTRE",
+      "LEER",
+      "LERNE",
+      "LERNT",
+      "LERNTE",
+      "RAN",
+      "RATE",
+      "RATEN",
+      "REAL",
+      "REALE",
+      "REALEN",
+      "TAL",
+      "TALER",
+      "TEE",
+      "TEER"
+     ]
+    },
+    "tr": {
+     "letters": "MEVİERND",
+     "words": [
+      {
+       "word": "ERDEM",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "EMRİNE",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "EVREN",
+       "x": 7,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "DEVRİN",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "VERME",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "MERDİVEN",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "MEDENİ",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "DEM",
+      "DEME",
+      "DEMEN",
+      "DEMİ",
+      "DEMİN",
+      "DEMİR",
+      "DEN",
+      "DENE",
+      "DENER",
+      "DENERİM",
+      "DENİM",
+      "DENİR",
+      "DER",
+      "DERE",
+      "DERİ",
+      "DERİM",
+      "DERİN",
+      "DERİNE",
+      "DEV",
+      "DEVE",
+      "DEVİ",
+      "DEVİN",
+      "DEVİR",
+      "DEVİREN",
+      "DEVRE",
+      "DEVRİ",
+      "DEVRİM",
+      "DEVRİME",
+      "DEVRİNE",
+      "DİN",
+      "DİNE",
+      "DİREN",
+      "DİRENME",
+      "EDE",
+      "EDEN",
+      "EDENİ",
+      "EDER",
+      "EDERİM",
+      "EDİ",
+      "EDİM",
+      "EDİN",
+      "EDİNME",
+      "EMEN",
+      "EMER",
+      "EMİ",
+      "EMİN",
+      "EMİNE",
+      "EMİR",
+      "EMRİ",
+      "EMRİN",
+      "EMRİNDE",
+      "ENDER",
+      "ENE",
+      "ENİ",
+      "ERDEN",
+      "ERDİ",
+      "EREN",
+      "ERİ",
+      "ERİM",
+      "ERİME",
+      "ERİN",
+      "ERMENİ",
+      "EVDE",
+      "EVDEN",
+      "EVE",
+      "EVER",
+      "EVİ",
+      "EVİM",
+      "EVİMDE",
+      "EVİMDEN",
+      "EVİME",
+      "EVİN",
+      "EVİNDE",
+      "EVİNE",
+      "EVRE",
+      "EVRENİ",
+      "EVRİM",
+      "İDE",
+      "İNDE",
+      "İNE",
+      "İNER",
+      "İNME",
+      "İVME",
+      "MEN",
+      "MENİ",
+      "MERİ",
+      "MİDE",
+      "MİN",
+      "MİNE",
+      "MİR",
+      "NEDE",
+      "NEDİM",
+      "NEDİR",
+      "NEM",
+      "NEME",
+      "NEMİ",
+      "NERE",
+      "NEV",
+      "NEVİ",
+      "REM",
+      "REN",
+      "RENE",
+      "VER",
+      "VERDİM",
+      "VERDİN",
+      "VERE",
+      "VEREM",
+      "VEREN",
+      "VERİ",
+      "VERİM",
+      "VERİN",
+      "VERMEDİ",
+      "VERMEDİN",
+      "VERMEN"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d4.jpg",
+   "title": {
+    "en": "Burano",
+    "es": "Burano",
+    "pt": "Burano",
+    "fr": "Burano",
+    "de": "Burano",
+    "tr": "Burano"
+   },
+   "place": {
+    "en": "Italy",
+    "es": "Italia",
+    "pt": "Itália",
+    "fr": "Italie",
+    "de": "Italien",
+    "tr": "İtalya"
+   },
+   "fact": {
+    "en": "Legend says fishermen painted their houses bright colors to find their way home through the fog.",
+    "es": "Cuenta la leyenda que los pescadores pintaron sus casas de colores para encontrarlas entre la niebla.",
+    "pt": "Diz a lenda que os pescadores pintaram as casas de cores vivas para achá-las na neblina.",
+    "fr": "La légende dit que les pêcheurs peignaient leurs maisons de couleurs vives pour les retrouver dans le brouillard.",
+    "de": "Der Legende nach strichen Fischer ihre Häuser bunt an, um sie im Nebel wiederzufinden.",
+    "tr": "Efsaneye göre balıkçılar sisli havada evlerini bulabilmek için onları rengârenk boyadı."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "ORLOCS",
+     "words": [
+      {
+       "word": "SOLO",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "COLORS",
+       "x": 0,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "COS",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "SOL",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "COOL",
+       "x": 2,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "COL",
+       "x": 2,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "COLOR",
+       "x": 0,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "COO",
+      "COOLS",
+      "COR",
+      "LOCO",
+      "LOO",
+      "ORC",
+      "ORCS",
+      "SOC"
+     ]
+    },
+    "es": {
+     "letters": "COSELRO",
+     "words": [
+      {
+       "word": "CLERO",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "COLOR",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "CELOSO",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "ORO",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "COLORES",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "ROL",
+       "x": 4,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "SERLO",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "CELO",
+      "CELOS",
+      "CERO",
+      "CEROS",
+      "CES",
+      "CESO",
+      "CLORO",
+      "COL",
+      "COLE",
+      "COLO",
+      "CORO",
+      "COROS",
+      "CORSO",
+      "COSER",
+      "COSO",
+      "CREO",
+      "ECO",
+      "ECOS",
+      "EROS",
+      "ESO",
+      "LEO",
+      "LES",
+      "LOCO",
+      "LOCOS",
+      "LORES",
+      "LORO",
+      "LOROS",
+      "LOS",
+      "OLE",
+      "OLEO",
+      "OLER",
+      "OLOR",
+      "OLORES",
+      "ORCOS",
+      "OREO",
+      "OROS",
+      "OSO",
+      "REO",
+      "REOS",
+      "RES",
+      "ROCE",
+      "ROCES",
+      "ROLES",
+      "ROO",
+      "ROS",
+      "ROSE",
+      "SECO",
+      "SEL",
+      "SEO",
+      "SER",
+      "SOL",
+      "SOLER",
+      "SOLO",
+      "SOR"
+     ]
+    },
+    "pt": {
+     "letters": "ASBOCR",
+     "words": [
+      {
+       "word": "ARCOS",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "COR",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BARCOS",
+       "x": 1,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "BRACO",
+       "x": 1,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "SABOR",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "BARCO",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "BOCA",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ABRO",
+      "ACO",
+      "AOS",
+      "ARCO",
+      "ARO",
+      "BACO",
+      "BAR",
+      "BASCO",
+      "BOA",
+      "BOAS",
+      "BOCAS",
+      "BORA",
+      "BRACOS",
+      "BROCA",
+      "CABO",
+      "CABOS",
+      "CAO",
+      "CAOS",
+      "CARO",
+      "CAROS",
+      "CASO",
+      "COBRA",
+      "COBRAS",
+      "COSA",
+      "OBA",
+      "OBRA",
+      "OBRAS",
+      "OCA",
+      "ORA",
+      "ORAS",
+      "RABO",
+      "RASO",
+      "ROCA",
+      "ROSCA",
+      "SACO",
+      "SAO",
+      "SOA",
+      "SOAR",
+      "SOB",
+      "SOBRA",
+      "SOCAR",
+      "SOR",
+      "SORA"
+     ]
+    },
+    "fr": {
+     "letters": "CUSEUOLR",
+     "words": [
+      {
+       "word": "COURSE",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ROULE",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "RECUL",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "COURS",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "COULER",
+       "x": 2,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "COULEURS",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "SCORE",
+       "x": 2,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "CES",
+      "CLE",
+      "CLES",
+      "CLORE",
+      "CLOS",
+      "CLOSE",
+      "CLOU",
+      "CLOUE",
+      "CLOUS",
+      "COL",
+      "COLS",
+      "COR",
+      "CORS",
+      "CORSE",
+      "COS",
+      "COU",
+      "COULE",
+      "COULEUR",
+      "COUR",
+      "COURU",
+      "COUSU",
+      "CRU",
+      "CRUE",
+      "CRUEL",
+      "CRUELS",
+      "CRUES",
+      "CRUS",
+      "CULS",
+      "CURE",
+      "CURES",
+      "ELU",
+      "ELUS",
+      "EURO",
+      "EUROS",
+      "EUS",
+      "LES",
+      "LEU",
+      "LEUR",
+      "LEURS",
+      "LORS",
+      "LOSER",
+      "LOUE",
+      "LOUER",
+      "LOUES",
+      "LUE",
+      "LUES",
+      "LUEUR",
+      "LUS",
+      "OCRE",
+      "OCULUS",
+      "ORES",
+      "OSE",
+      "OSER",
+      "OURS",
+      "RECLUS",
+      "RECU",
+      "RECUS",
+      "RELOU",
+      "RELU",
+      "RESOLU",
+      "ROC",
+      "ROLE",
+      "ROLES",
+      "ROSE",
+      "ROUE",
+      "ROUES",
+      "ROULES",
+      "RUE",
+      "RUES",
+      "RUSE",
+      "SEC",
+      "SECOURU",
+      "SECU",
+      "SEL",
+      "SEUL",
+      "SOC",
+      "SOCLE",
+      "SOL",
+      "SOLE",
+      "SOU",
+      "SOUL",
+      "SOURCE",
+      "SUCE",
+      "SUCER",
+      "SUCRE",
+      "SUE",
+      "SUER",
+      "SUEUR",
+      "SUR",
+      "SURE",
+      "USE",
+      "USER",
+      "USUEL",
+      "USURE"
+     ]
+    },
+    "de": {
+     "letters": "EGNDEEL",
+     "words": [
+      {
+       "word": "ENGEL",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "EDEL",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "GELD",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "LEGEN",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ELEND",
+       "x": 6,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ENGE",
+       "x": 4,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "LEGENDE",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "ENDE",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "DEGEN",
+      "DEN",
+      "EDEN",
+      "EDLE",
+      "EDLEN",
+      "ELENDE",
+      "ENG",
+      "GEL",
+      "GEN",
+      "LEG",
+      "LEGE",
+      "LEGEND"
+     ]
+    },
+    "tr": {
+     "letters": "KERLREN",
+     "words": [
+      {
+       "word": "EREN",
+       "x": 3,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ERKEN",
+       "x": 5,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "KEL",
+       "x": 0,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "ELE",
+       "x": 1,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "EKLER",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "RENKLER",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "REEL",
+       "x": 0,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "RENK",
+       "x": 3,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "EKEN",
+      "EKER",
+      "EKLE",
+      "ELEK",
+      "ENE",
+      "ERER",
+      "ERK",
+      "ERLER",
+      "KENE",
+      "KERE",
+      "LEKE",
+      "NELER",
+      "NERE",
+      "REN",
+      "RENE",
+      "RENKLE"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d5.jpg",
+   "title": {
+    "en": "Colmar",
+    "es": "Colmar",
+    "pt": "Colmar",
+    "fr": "Colmar",
+    "de": "Colmar",
+    "tr": "Colmar"
+   },
+   "place": {
+    "en": "France",
+    "es": "Francia",
+    "pt": "França",
+    "fr": "France",
+    "de": "Frankreich",
+    "tr": "Fransa"
+   },
+   "fact": {
+    "en": "Its canal quarter is called Little Venice; growers once rowed their vegetables to market here.",
+    "es": "Su barrio de canales se llama la Pequeña Venecia; los hortelanos llevaban sus verduras en barca al mercado.",
+    "pt": "Seu bairro de canais se chama Pequena Veneza; os hortelões levavam legumes de barco ao mercado.",
+    "fr": "Son quartier des canaux s'appelle la Petite Venise ; les maraîchers y menaient leurs légumes en barque au marché.",
+    "de": "Das Kanalviertel heißt Klein-Venedig; Gemüsebauern ruderten hier ihre Ware zum Markt.",
+    "tr": "Kanallı mahallesine Küçük Venedik denir; bostancılar sebzelerini buradan kayıkla pazara taşırdı."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "RAEKMT",
+     "words": [
+      {
+       "word": "MART",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MEAT",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MATE",
+       "x": 3,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "RATE",
+       "x": 0,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "MAKER",
+       "x": 5,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "TEAM",
+       "x": 3,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "EAT",
+       "x": 2,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "MARKET",
+       "x": 1,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ARE",
+      "ARK",
+      "ARM",
+      "ART",
+      "ATE",
+      "EAR",
+      "ERA",
+      "ETA",
+      "KART",
+      "MAKE",
+      "MAR",
+      "MARE",
+      "MARK",
+      "MAT",
+      "MATER",
+      "MET",
+      "META",
+      "RAKE",
+      "RAM",
+      "RAT",
+      "REM",
+      "TAKE",
+      "TAKER",
+      "TAM",
+      "TAME",
+      "TAR",
+      "TEA",
+      "TEAR",
+      "TERM",
+      "TRAM",
+      "TREK"
+     ]
+    },
+    "es": {
+     "letters": "AOEMRCD",
+     "words": [
+      {
+       "word": "COMER",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "CREMA",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "COREA",
+       "x": 6,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "MERCADO",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "RODEA",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "DARME",
+       "x": 2,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "MARCO",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ACERO",
+      "ACORDE",
+      "ACRE",
+      "AME",
+      "AMO",
+      "AMOR",
+      "ARCE",
+      "ARCO",
+      "ARDE",
+      "ARE",
+      "ARME",
+      "ARMO",
+      "ARO",
+      "CAE",
+      "CAER",
+      "CAR",
+      "CARO",
+      "CEA",
+      "CEDA",
+      "CEDRO",
+      "CERA",
+      "CERDA",
+      "CERDO",
+      "CERO",
+      "COMA",
+      "COME",
+      "CREA",
+      "CREADO",
+      "CREDO",
+      "CREO",
+      "DAME",
+      "DAR",
+      "DARE",
+      "DEMO",
+      "DEMORA",
+      "DER",
+      "DOCE",
+      "DOM",
+      "DORA",
+      "ECO",
+      "ERA",
+      "MACRO",
+      "MADERO",
+      "MADRE",
+      "MAR",
+      "MAREO",
+      "MERA",
+      "MERCA",
+      "MERO",
+      "MODA",
+      "MOR",
+      "MORA",
+      "MORE",
+      "OCA",
+      "ODA",
+      "ORA",
+      "RAMO",
+      "REA",
+      "RECADO",
+      "RED",
+      "REMO",
+      "REO",
+      "ROA",
+      "ROCA",
+      "ROCE",
+      "RODA",
+      "ROMA"
+     ]
+    },
+    "pt": {
+     "letters": "DERACOM",
+     "words": [
+      {
+       "word": "AMOR",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "CREDO",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MADRE",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "DOCE",
+       "x": 6,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MERCADO",
+       "x": 0,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "COMER",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "MAE",
+       "x": 3,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "ORDEM",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ACO",
+      "ACORDE",
+      "ACORDEM",
+      "ACRE",
+      "AME",
+      "AMO",
+      "AMORE",
+      "ARCO",
+      "ARDE",
+      "ARE",
+      "ARO",
+      "CADE",
+      "CAEM",
+      "CAO",
+      "CARO",
+      "CEDO",
+      "CEDRO",
+      "CEM",
+      "CERA",
+      "COE",
+      "COM",
+      "COMA",
+      "COME",
+      "COR",
+      "CORDA",
+      "CORE",
+      "CRE",
+      "DAO",
+      "DAR",
+      "DAREM",
+      "DEMO",
+      "DEMORA",
+      "DER",
+      "DERA",
+      "DERAM",
+      "DOA",
+      "DOAR",
+      "DOCA",
+      "DOE",
+      "DOEM",
+      "DOER",
+      "DOM",
+      "DOME",
+      "DOR",
+      "DORA",
+      "DORME",
+      "ECA",
+      "ECO",
+      "ECRA",
+      "EMA",
+      "ERA",
+      "ERAM",
+      "MACO",
+      "MACRO",
+      "MADE",
+      "MAR",
+      "MARE",
+      "MECA",
+      "MEDO",
+      "MERA",
+      "MERO",
+      "MOCA",
+      "MODA",
+      "MOEDA",
+      "MOR",
+      "MORA",
+      "MORDE",
+      "MORE",
+      "OCA",
+      "ODE",
+      "ORA",
+      "ORE",
+      "RAMO",
+      "RECADO",
+      "REMO",
+      "ROCA",
+      "RODA",
+      "ROM"
+     ]
+    },
+    "fr": {
+     "letters": "SMSNIOA",
+     "words": [
+      {
+       "word": "AMI",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "MAISON",
+       "x": 1,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "SAISON",
+       "x": 4,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "NOM",
+       "x": 0,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "MAIN",
+       "x": 2,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "MOIS",
+       "x": 2,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "MAISONS",
+       "x": 0,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AIMONS",
+      "AIS",
+      "AMIS",
+      "ANIS",
+      "ION",
+      "IONS",
+      "MAI",
+      "MAINS",
+      "MAIS",
+      "MAN",
+      "MANS",
+      "MAS",
+      "MIN",
+      "MINA",
+      "MIS",
+      "MISS",
+      "MOI",
+      "MOINS",
+      "MON",
+      "NOMS",
+      "NOS",
+      "OASIS",
+      "OMIS",
+      "OSAIS",
+      "SAIN",
+      "SAINS",
+      "SAIS",
+      "SANS",
+      "SAS",
+      "SIN",
+      "SINO",
+      "SIS",
+      "SOI",
+      "SOIN",
+      "SOINS",
+      "SOIS",
+      "SON",
+      "SONS"
+     ]
+    },
+    "de": {
+     "letters": "TREANG",
+     "words": [
+      {
+       "word": "TRAGEN",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "GAR",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "TAGEN",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "RANG",
+       "x": 3,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "AGENT",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "GARTEN",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "RATEN",
+       "x": 2,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ARG",
+      "ARGE",
+      "ARGEN",
+      "ART",
+      "ARTE",
+      "ARTEN",
+      "ENG",
+      "GARN",
+      "GEN",
+      "GERN",
+      "GETAN",
+      "GRAT",
+      "RAGE",
+      "RAGEN",
+      "RAGT",
+      "RAN",
+      "RAT",
+      "RATE",
+      "REGT",
+      "TAG",
+      "TAGE",
+      "TANG",
+      "TRAG",
+      "TRAGE"
+     ]
+    },
+    "tr": {
+     "letters": "BAKNOL",
+     "words": [
+      {
+       "word": "KABLO",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BLOK",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "BAL",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "KAN",
+       "x": 5,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BALKON",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "ONLA",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "KOLA",
+       "x": 1,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "BAK",
+      "BALO",
+      "BALON",
+      "BAN",
+      "BANK",
+      "BANKO",
+      "BOKA",
+      "BOL",
+      "KAL",
+      "KANO",
+      "KLAN",
+      "KLON",
+      "KOL",
+      "LAK",
+      "NAL",
+      "OBA",
+      "OKLA",
+      "OLA",
+      "OLAN",
+      "ONA"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d6.jpg",
+   "title": {
+    "en": "Cinque Terre",
+    "es": "Cinque Terre",
+    "pt": "Cinque Terre",
+    "fr": "Cinque Terre",
+    "de": "Cinque Terre",
+    "tr": "Cinque Terre"
+   },
+   "place": {
+    "en": "Italy",
+    "es": "Italia",
+    "pt": "Itália",
+    "fr": "Italie",
+    "de": "Italien",
+    "tr": "İtalya"
+   },
+   "fact": {
+    "en": "Five cliffside villages linked by coastal paths, a UNESCO World Heritage Site since 1997.",
+    "es": "Cinco pueblos sobre acantilados unidos por senderos costeros; Patrimonio de la Humanidad desde 1997.",
+    "pt": "Cinco vilas sobre falésias ligadas por trilhas costeiras; Patrimônio Mundial desde 1997.",
+    "fr": "Cinq villages perchés sur les falaises, reliés par des sentiers côtiers ; patrimoine mondial depuis 1997.",
+    "de": "Fünf Dörfer an den Klippen, verbunden durch Küstenpfade; seit 1997 UNESCO-Welterbe.",
+    "tr": "Kıyı patikalarıyla birbirine bağlanan beş yamaç köyü; 1997'den beri UNESCO Dünya Mirası."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "RCAETRE",
+     "words": [
+      {
+       "word": "ERECT",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "REACT",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "TRACE",
+       "x": 7,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "CREATE",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "CAREER",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "TERRACE",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "CRATER",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ACE",
+      "ACRE",
+      "ACT",
+      "ARC",
+      "ARE",
+      "ARR",
+      "ART",
+      "ATE",
+      "CAR",
+      "CARE",
+      "CART",
+      "CARTER",
+      "CAT",
+      "CATER",
+      "CERT",
+      "CRATE",
+      "EAR",
+      "EAT",
+      "EATER",
+      "ERA",
+      "ERE",
+      "ERR",
+      "ETA",
+      "ETC",
+      "RACE",
+      "RACER",
+      "RARE",
+      "RAT",
+      "RATE",
+      "REAR",
+      "REC",
+      "TAR",
+      "TEA",
+      "TEAR",
+      "TEE",
+      "TRACER",
+      "TREE"
+     ]
+    },
+    "es": {
+     "letters": "ISOÑDEV",
+     "words": [
+      {
+       "word": "DESVIO",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "DISEÑO",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "VIDEO",
+       "x": 2,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "EVO",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "VIÑEDOS",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "SED",
+       "x": 6,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "VOS",
+       "x": 2,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "DEIS",
+      "DES",
+      "DIO",
+      "DIOS",
+      "DOS",
+      "ESO",
+      "IDEO",
+      "IDO",
+      "ODIE",
+      "SEO",
+      "SIDO",
+      "SOÑE",
+      "VEIS",
+      "VEO",
+      "VES",
+      "VID",
+      "VIDEOS",
+      "VIO",
+      "VIS",
+      "VIÑEDO"
+     ]
+    },
+    "pt": {
+     "letters": "CTOAS",
+     "words": [
+      {
+       "word": "COSTA",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "COTA",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "ATO",
+       "x": 4,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "CAO",
+       "x": 2,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "ACO",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "CAOS",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AOS",
+      "ATOS",
+      "CASO",
+      "COSA",
+      "COTAS",
+      "OCA",
+      "OTA",
+      "SACO",
+      "SAO",
+      "SOA",
+      "TACO",
+      "TACOS",
+      "TAO",
+      "TAS",
+      "TOA",
+      "TOCA",
+      "TOCAS",
+      "TOS",
+      "TOSCA"
+     ]
+    },
+    "fr": {
+     "letters": "NSEGIV",
+     "words": [
+      {
+       "word": "VIGNES",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "VIN",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "SINGE",
+       "x": 5,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "SEIN",
+       "x": 2,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "VIGNE",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "VIS",
+       "x": 1,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "SIGNE",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ENVI",
+      "GENS",
+      "GIN",
+      "IVE",
+      "NES",
+      "NIE",
+      "SEN",
+      "SIEN",
+      "SIN",
+      "SINE",
+      "VIE",
+      "VIENS",
+      "VIES",
+      "VINS",
+      "VISE"
+     ]
+    },
+    "de": {
+     "letters": "LNSEFE",
+     "words": [
+      {
+       "word": "FELS",
+       "x": 1,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ESEL",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "ELF",
+       "x": 0,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "SENF",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "FELSEN",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "SEE",
+       "x": 3,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "LESEN",
+       "x": 0,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ELFEN",
+      "FEE",
+      "LESE"
+     ]
+    },
+    "tr": {
+     "letters": "AAKKYIL",
+     "words": [
+      {
+       "word": "AYAKLI",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "AYLIK",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "KALK",
+       "x": 6,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "AYAK",
+       "x": 2,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "ALAY",
+       "x": 4,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "KAYALIK",
+       "x": 0,
+       "y": 3,
+       "horizontal": true
+      },
+      {
+       "word": "KAYAK",
+       "x": 2,
+       "y": 5,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AKA",
+      "AKLA",
+      "AKLI",
+      "AKI",
+      "AKIL",
+      "AKIYLA",
+      "ALA",
+      "ALAYI",
+      "ALI",
+      "AYA",
+      "AYLA",
+      "AYLAK",
+      "AYI",
+      "AYIK",
+      "KAKA",
+      "KAL",
+      "KALA",
+      "KALAY",
+      "KAY",
+      "KAYA",
+      "KAYI",
+      "KAYIK",
+      "KIL",
+      "KIYAK",
+      "LAK",
+      "LAYIK",
+      "YAK",
+      "YAKA",
+      "YAKALI",
+      "YAL",
+      "YALA",
+      "YALI",
+      "YIK",
+      "YIKA",
+      "YIL",
+      "YILA"
+     ]
+    }
+   }
+  },
+  {
+   "photo": "d7.jpg",
+   "title": {
+    "en": "Guatapé",
+    "es": "Guatapé",
+    "pt": "Guatapé",
+    "fr": "Guatapé",
+    "de": "Guatapé",
+    "tr": "Guatapé"
+   },
+   "place": {
+    "en": "Colombia",
+    "es": "Colombia",
+    "pt": "Colômbia",
+    "fr": "Colombie",
+    "de": "Kolumbien",
+    "tr": "Kolombiya"
+   },
+   "fact": {
+    "en": "Houses wear colorful relief panels called zócalos; nearby El Peñol rock has about 700 steps.",
+    "es": "Las casas lucen zócalos de colores en relieve; la cercana Piedra del Peñol tiene unos 700 escalones.",
+    "pt": "As casas têm painéis coloridos em relevo, os zócalos; a vizinha Pedra do Peñol tem cerca de 700 degraus.",
+    "fr": "Les maisons portent des panneaux colorés en relief, les zócalos ; le rocher d'El Peñol compte environ 700 marches.",
+    "de": "Die Häuser tragen bunte Reliefs, die Zócalos; der nahe Fels El Peñol hat rund 700 Stufen.",
+    "tr": "Evleri zócalo denen renkli kabartmalarla süslü; yakındaki El Peñol kayasında yaklaşık 700 basamak var."
+   },
+   "puzzle": {
+    "en": {
+     "letters": "TERSTE",
+     "words": [
+      {
+       "word": "TEST",
+       "x": 0,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "SET",
+       "x": 6,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "REST",
+       "x": 2,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "TREE",
+       "x": 4,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "TEE",
+       "x": 4,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "STEER",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "STREET",
+       "x": 1,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ERE",
+      "EST",
+      "ESTER",
+      "RES",
+      "RESET",
+      "SEE",
+      "SEER",
+      "TEES",
+      "TESTER",
+      "TREES"
+     ]
+    },
+    "es": {
+     "letters": "APERID",
+     "words": [
+      {
+       "word": "PADRE",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "DIERA",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "PARED",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "PIEDRA",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "PEDIR",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "AIRE",
+       "x": 2,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "RED",
+       "x": 0,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ARDE",
+      "ARE",
+      "DAR",
+      "DARE",
+      "DER",
+      "DIA",
+      "DIRA",
+      "DIRE",
+      "ERA",
+      "IDA",
+      "IDEA",
+      "IDEAR",
+      "IRA",
+      "IRE",
+      "PAR",
+      "PARE",
+      "PEDI",
+      "PEDIA",
+      "PEDIRA",
+      "PERA",
+      "PERDI",
+      "PERDIA",
+      "PIDA",
+      "PIDE",
+      "PIE",
+      "PIERDA",
+      "RAP",
+      "REA",
+      "REIA",
+      "RIA",
+      "RIE"
+     ]
+    },
+    "pt": {
+     "letters": "AARVAND",
+     "words": [
+      {
+       "word": "ANDAR",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "DAR",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "VAR",
+       "x": 6,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "VARANDA",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "VAN",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "NADAR",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ADA",
+      "ANDA",
+      "ANDAVA",
+      "ARA",
+      "DAVA",
+      "NADA",
+      "NARA",
+      "RANA",
+      "VARA"
+     ]
+    },
+    "fr": {
+     "letters": "ACNOBL",
+     "words": [
+      {
+       "word": "BOL",
+       "x": 2,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "BACON",
+       "x": 2,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "BALCON",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "BANC",
+       "x": 0,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "COL",
+       "x": 3,
+       "y": 2,
+       "horizontal": false
+      },
+      {
+       "word": "BLOC",
+       "x": 2,
+       "y": 4,
+       "horizontal": true
+      },
+      {
+       "word": "BAL",
+       "x": 2,
+       "y": 4,
+       "horizontal": false
+      },
+      {
+       "word": "BLANC",
+       "x": 1,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "ABC",
+      "BAC",
+      "BAN",
+      "BANCO",
+      "BOA",
+      "BOCAL",
+      "BON",
+      "CAB",
+      "CAL",
+      "CLAN",
+      "LABO",
+      "LAC"
+     ]
+    },
+    "de": {
+     "letters": "KABOLN",
+     "words": [
+      {
+       "word": "BANK",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "KLO",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "LOB",
+       "x": 3,
+       "y": 1,
+       "horizontal": true
+      },
+      {
+       "word": "BLANK",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "ABO",
+       "x": 0,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "ALB",
+       "x": 2,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "BALKON",
+       "x": 0,
+       "y": 4,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "BOA",
+      "KALB",
+      "KLON",
+      "LOK"
+     ]
+    },
+    "tr": {
+     "letters": "AAKLYRA",
+     "words": [
+      {
+       "word": "YAKAR",
+       "x": 0,
+       "y": 0,
+       "horizontal": true
+      },
+      {
+       "word": "ALARAK",
+       "x": 1,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "AKAR",
+       "x": 3,
+       "y": 0,
+       "horizontal": false
+      },
+      {
+       "word": "YAKALA",
+       "x": 5,
+       "y": 1,
+       "horizontal": false
+      },
+      {
+       "word": "KAYALAR",
+       "x": 0,
+       "y": 2,
+       "horizontal": true
+      },
+      {
+       "word": "ARKA",
+       "x": 7,
+       "y": 3,
+       "horizontal": false
+      },
+      {
+       "word": "KARAYA",
+       "x": 2,
+       "y": 6,
+       "horizontal": true
+      }
+     ],
+     "bonus": [
+      "AKA",
+      "AKLA",
+      "ALA",
+      "ALAKA",
+      "ALAY",
+      "ALAYA",
+      "ARA",
+      "ARAYA",
+      "ARAYLA",
+      "ARK",
+      "ARKAYA",
+      "ARYA",
+      "AYA",
+      "AYAK",
+      "AYAKLA",
+      "AYAKLAR",
+      "AYAR",
+      "AYARLA",
+      "AYLA",
+      "AYLAK",
+      "AYLAR",
+      "AYLARA",
+      "KAL",
+      "KALA",
+      "KALAY",
+      "KAR",
+      "KARA",
+      "KARLA",
+      "KAY",
+      "KAYA",
+      "KAYAR",
+      "KAYRA",
+      "KRAL",
+      "KRALA",
+      "LAK",
+      "RAY",
+      "YAK",
+      "YAKA",
+      "YAKALAR",
+      "YAL",
+      "YALA",
+      "YALAKA",
+      "YALAR",
+      "YAR",
+      "YARA"
+     ]
+    }
+   }
+  }
+ ]
+}
